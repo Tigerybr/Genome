@@ -1,4 +1,7 @@
 # Genome Assembly 
+
+The link to my team's video presentation is here: https://youtu.be/ouNNXZKx5nE
+
 The modern DNA revolution was brought about in 2001 by the completion of the human reference genome,
 which consisted of piecing together small fragments of DNA sequence into 24 full chromosomes and cost
 about $1 billion. Since 2001, computer scientists have made considerable headway on new algorithms for
@@ -14,5 +17,3 @@ producing longer reads, but they are currently expensive and error-prone.
 
 Genome assembly is the process of taking a large number of sequences and putting them back together to
 create a representation of the original genome.
-
-The link to my team's video presentation is here: https://drive.google.com/file/d/1L2DMIgKsH7gZNuvv31aUP6J-Squrmt9Z/view?usp=sharing
