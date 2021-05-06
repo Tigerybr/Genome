@@ -1,6 +1,6 @@
 # Genome Assembly 
 
-The link to my team's video presentation is here: https://youtu.be/ouNNXZKx5nE
+The link to my team's video presentation is [here](https://youtu.be/ouNNXZKx5nE)
 
 The modern DNA revolution was brought about in 2001 by the completion of the human reference genome,
 which consisted of piecing together small fragments of DNA sequence into 24 full chromosomes and cost
